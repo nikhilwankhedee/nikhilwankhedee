@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Nikhil Wankhede  
 
-🎓 **B.Tech in Computer Science (AI Specialization)** — First Year @ [Your College Name], Class of ’29  
+🎓 **B.Tech in Computer Science (AI Specialization)** — First Year @KBTCOE, Class of ’29  
 📍 Based in Nashik, India  
 📧 Reach me: nikhil@waynoir.com | tonywankhedee@gmail.com  
 
 ---
 
 ## 🚀 Why I’m Here  
-When I was younger, Iron Man wasn’t just a movie for me — it was a vision.  
+When I was younger, Iron Man wasn’t just a movie for me, it was a vision.  
 J.A.R.V.I.S. wasn’t fiction, it was the blueprint.  
-That spark is what pulled me into **Artificial Intelligence** — and today, I’m pursuing engineering to make that vision real.  
+That spark is what pulled me into **Artificial Intelligence** and today, I’m pursuing engineering to make that vision real.  
 
 I’ve explored different areas in tech, from building 12+ websites as a freelancer to running a marketing agency where I coded **automation tools with Python** to save hours of work. But now, I’m going all-in on what excites me the most: **AI + Python**.  
 
